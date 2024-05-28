@@ -1,0 +1,214 @@
+/* first section */
+.landing_text {
+  margin-top: 25vh;
+}
+.landing_img1 img {
+  position: absolute;
+  right: 0rem;
+  height: 95vh;
+  width: auto;
+  z-index: -1;
+}
+.landing_text h1 {
+  color: var(--colour-main-blue-900, #091133);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 3.125rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 4.125rem;
+  letter-spacing: 0.0625rem;
+}
+.landing_text div p {
+  color: var(--colour-main-blue-500, #505f98);
+  font-feature-settings: "clig" off, "liga" off;
+
+  font-family: Roboto;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.875rem;
+}
+.purchase_ui_kit {
+  background-color: rgb(2, 2, 61);
+  color: white;
+  width: 10rem;
+  height: 2rem;
+  border-radius: 0%;
+  padding: 0px;
+  border: solid rgb(2, 2, 61) 0.1rem;
+  margin-right: 2rem;
+}
+.learn_more {
+  background-color: transparent;
+  color: rgb(2, 2, 61);
+  width: 10rem;
+  height: 2rem;
+  border-radius: 0%;
+  padding: 0px;
+  border: solid rgb(2, 2, 61) 0.1rem;
+}
+
+/* second section */
+
+.landing_text2 {
+  margin-top: 30vh;
+}
+.landing_text2 h1 {
+  color: var(--colour-main-blue-900, #091133);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Medium 36 */
+  font-family: Roboto;
+  font-size: 2.25rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 3rem; /* 133.333% */
+}
+.landing_text2 div p {
+  color: var(--colour-main-blue-400, #6f7cb2);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Regular 16 */
+  font-family: Roboto;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.625rem; /* 162.5% */
+}
+/* third section */
+
+.landing_text3 h1 {
+  color: var(--colour-main-blue-900, #091133);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Medium 16 */
+  font-family: Roboto;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.625rem; /* 162.5% */
+}
+.landing_text3 p {
+  color: var(--colour-main-grey-600, #5d6970);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Regular 12 */
+  font-family: Roboto;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.125rem; /* 150% */
+}
+
+/* Fourth section */
+.landing_row3 {
+  margin-top: 17.5rem;
+}
+.landing_img3 div img{
+  width: auto;
+}
+.landing_text4 {
+  margin-top: 5rem;
+  text-align: center;
+}
+.landing_text4 h1 {
+  color: var(--colour-main-blue-900, #091133);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Medium 36 */
+  font-family: Roboto;
+  font-size: 2.25rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 3rem;
+}
+.landing_text4 p {
+  color: var(--colour-main-blue-400, #6f7cb2);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.625rem; /* 162.5% */
+}
+
+/* Fifth section */
+.landing-row4 {
+  margin-top:21.19rem;
+}
+.landing_text5 {
+  margin-top: 5rem;
+  text-align: center;
+}
+.landing_text5 h1 {
+  color: var(--colour-main-blue-900, #091133);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Medium 36 */
+  font-family: Roboto;
+  font-size: 2.25rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 3rem; /* 133.333% */
+}
+.landing_text5 p {
+  color: var(--colour-main-blue-400, #6f7cb2);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.625rem; /* 162.5% */
+}
+
+/* Sixth section */
+.landing-row5 {
+  margin-top:21.19rem;
+}
+.landing_text6 {
+  margin-top: 5rem;
+  text-align: center;
+}
+.landing_text6 h1 {
+  color: var(--colour-main-blue-900, #091133);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Medium 36 */
+  font-family: Roboto;
+  font-size: 2.25rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 3rem; /* 133.333% */
+}
+.landing_text6 p {
+  color: var(--colour-main-blue-400, #6f7cb2);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.625rem; /* 162.5% */
+}
+
+/* Purchase Now Button */
+
+.landing_text6 .purchase_now_btn {
+  color: var(--colour-secondary-white-100-general, #fff);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  background-color: rgb(2, 2, 61);
+  color: white;
+  width: 10rem;
+  height: 2rem;
+  border-radius: 0%;
+  padding: 0px;
+  border: solid rgb(2, 2, 61) 0.1rem;
+  margin-right: 2rem;
+  /* Medium 14 */
+  font-family: Roboto;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5rem; /* 171.429% */
+}

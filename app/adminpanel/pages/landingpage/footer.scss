@@ -1,0 +1,83 @@
+.footer1 {
+    height: 36.69rem;
+  }
+  .footer1 h1 {
+    color: var(--colour-main-blue-900, #091133);
+    text-align: center;
+    font-feature-settings: "clig" off, "liga" off;
+  
+    /* Medium 36 */
+    font-family: Roboto;
+    font-size: 2.25rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 3rem; /* 133.333% */
+  }
+  .footer1 p {
+    color: var(--colour-main-blue-400, #6f7cb2);
+    text-align: center;
+    font-feature-settings: "clig" off, "liga" off;
+  
+    /* Regular 16 */
+    font-family: Roboto;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.625rem; /* 162.5% */
+  }
+  .footer1 .purchase_now_btn,
+  .footer2 .purchase_now_btn {
+    color: var(--colour-secondary-white-100-general, #fff);
+    text-align: center;
+    font-feature-settings: "clig" off, "liga" off;
+    background-color: rgb(2, 2, 61);
+    color: white;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 0%;
+    padding: 0px;
+    border: solid rgb(2, 2, 61) 0.1rem;
+    font-family: Roboto;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5rem; /* 171.429% */
+  }
+  .footer1 .div2 {
+    margin-top: 2.24rem;
+  }
+  .footer1 .div3 {
+    margin-top: 5.37rem;
+  }
+  
+  /* footer2 */
+  
+  .footer2 {
+    margin-top: 15rem;
+  }
+  .footer2 .col div {
+    color: var(--colour-main-grey-400, #939ea4);
+    font-feature-settings: "clig" off, "liga" off;
+  
+    /* Medium 14 */
+    font-family: Roboto;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5rem; /* 171.429% */
+  }
+  
+  /* Footer Icons */
+  
+  .footer-icons div {
+    margin-top: 1rem;
+    margin-left: 1.2rem;
+  }
+  
+  /* footer nav-btn */
+  .footer-nav-btn {
+    padding: 0px;
+    background-color: transparent;
+    border: none;
+  }
+  

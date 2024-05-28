@@ -1,0 +1,48 @@
+
+.Navdark {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3rem;
+  width: 20rem;
+  --bs-nav-tabs-border-radius:none;
+  border-bottom: none;
+  --bs-nav-tabs-link-active-bg: rgb(5, 9, 42);
+  --bs-nav-tabs-link-active-color: white;
+}
+.Navlight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3rem;
+  width: 20rem;
+  --bs-nav-tabs-border-radius:none;
+  border-bottom: none;
+  --bs-nav-tabs-link-active-bg: rgb(22, 22, 131);
+  --bs-nav-tabs-link-active-color: white;
+}
+
+.theme1{
+  --header-bgcolor:rgb(21, 48, 85);
+  --header-navlink-textcolor:white;
+  --header-border-bottom-color:white;
+
+}
+.outerdiv{
+  background-color: var(--header-bgcolor);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 0px;
+  border-style: solid;
+  border-color:var(--header-border-bottom-color);
+  border-width:0rem 0rem 0.1rem 0rem
+}
+.outerdiv nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.outerdiv nav a{
+  color: var(--header-navlink-textcolor);
+}

@@ -1,0 +1,35 @@
+.nav-row {
+  width: 100%;
+  height: 100%;
+}
+.nav {
+  width: 100%;
+}
+.nav-col1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.nav-col2 {
+  display: flex;
+  justify-content: flex-end;
+}
+.nav-btn,
+.nav-btn a {
+  background-color: white;
+  border: solid white;
+  color: rgb(86, 86, 152);
+  padding: 0px;
+}
+.buy-nav-btn {
+  background-color: rgb(2, 2, 31);
+  height: 2rem;
+  width: 10rem;
+}
+.buy-nav-btn a {
+  color: white;
+  padding: 0px;
+}
+
+.buy-nav-btn:hover {
+  background-color: white;
+}

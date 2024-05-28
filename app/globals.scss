@@ -1,0 +1,41 @@
+@import '~bootstrap/scss/bootstrap';
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+:root {
+   --sidebar-item-hover-bgcolor:rgb(187, 0, 0);
+   --sidebar-item-hover-text-color:white;
+   --sidebar-item-text-color:black;
+   --sidebar-box-shadow:0.1rem 0rem 0.2rem rgb(0, 0, 0, 0.5);
+   --sidebar-link-active-color:rgb(255, 0, 0);
+  --sidebar-link-active-bgcolor:rgb(255, 255, 255);
+  --sidebar-backdrop-bgcolor:rgba(111, 111, 111, 0.516);
+  --sidebar-link-active-border-color:black;
+   --content-topbar-bgcolor:rgb(223, 225, 227);
+   --content-topbar-iconColor:black;
+   --content-topbar-icon-div-Color-hover:rgb(219, 230, 249);
+   --tailsboard-button-bgcolor:black;
+   --tailsboard-button-color:white;
+    --header-bgcolor:white;
+    --header-navlink-textcolor:rgb(8, 8, 110);
+    --header-border-bottom-color:black;
+    --pages-dropdown-active-color:white;
+     --pages-dropdown-active-bgcolor: rgb(8, 0, 168);
+    --pages-dropdown-bgcolor:white;
+    --pages-dropdown-hover-color:black;
+    --pages-dropdown-hover-bgcolor:rgb(180, 216, 255);
+    --sidebar-bgimage: url("../public/assets/Image/sidebarbg1.jpg");
+    --bell-icon-box-shadow:2px 2px 2px 0px rgba(0, 0, 0, 0.463),-2px -2px 2px 0px rgba(255, 255, 255, 0.711);
+    --message-icon-box-shadow:2px 2px 2px 0px rgba(0, 0, 0, 0.463),-2px -2px 2px 0px rgba(255, 255, 255, 0.711);
+    --content-topbar-image-box-shadow:2px 2px 2px 0px rgba(0, 0, 0, 0.463),-2px -2px 2px 0px rgba(255, 255, 255, 0.711);
+    --content-topbar-image-border-color:rgb(224, 216, 216);
+    --sidebar-items-box-shadow-inactive:2px 2px 2px 0px rgba(0, 0, 0, 0.463),-2px -2px 2px 0px rgba(255, 255, 255, 0.711);
+    --sidebar-items-box-shadow-active:inset 2px 2px 2px 0px rgba(0, 0, 0, 0.463),inset -2px -2px 2px 0px rgba(255, 255, 255, 0.711);
+    --content-topbar-box-shadow:2px 2px 2px 0px rgba(0, 0, 0, 0.463),-2px -2px 2px 0px rgba(255, 255, 255, 0.711);
+  }
